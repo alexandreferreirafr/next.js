@@ -596,9 +596,9 @@ dependencies = [
 
 [[package]]
 name = "binding_macros"
-version = "0.57.5"
+version = "0.57.6"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "394927619b4c1d1b4497e587fdbb1e5a4d137b0353fdc7ca5ca2efcea6346cb0"
+checksum = "f5090289ab68e49ca4403abbead709076855a368f813b9a439822c651eed6974"
 dependencies = [
  "anyhow",
  "console_error_panic_hook",
@@ -5938,9 +5938,9 @@ dependencies = [
 
 [[package]]
 name = "swc"
-version = "0.266.5"
+version = "0.266.6"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "76e3171a89f521c60b99b7468aed6fdf27993b30d97ebdf59ce982868f53f7ee"
+checksum = "f5421f176263eec4dbe8b28e385aa8942be5ed241b703f67db55d01b4fbe4543"
 dependencies = [
  "anyhow",
  "base64 0.13.1",
@@ -6110,9 +6110,9 @@ dependencies = [
 
 [[package]]
 name = "swc_core"
-version = "0.83.6"
+version = "0.83.8"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "07f8b886e61a697759292147113da7815cb10ae92c7357fa621e33dae44c40c6"
+checksum = "fdf85a769f0342bcb589c16ac2065783fa6025ebfca3dfadaa70c7043632bbf9"
 dependencies = [
  "binding_macros",
  "swc",
@@ -6226,9 +6226,9 @@ dependencies = [
 
 [[package]]
 name = "swc_css_modules"
-version = "0.27.2"
+version = "0.27.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "ec7cf86bd0da899f551089bcb3fb122e821b0b860359e27875c1676ea0f3b98d"
+checksum = "ac80e62e3221cb2abc0edd33886c74c7d2a64ca3756adce0047527026dff71ca"
 dependencies = [
  "rustc-hash",
  "serde",
